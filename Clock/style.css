@@ -1,0 +1,29 @@
+body {
+background-color: steelblue;
+}
+ 
+.clock {
+ 
+ height: 100px;
+  width: 800px;
+  margin: auto;
+  position:absolute;
+  top: 0; left:0; bottom:0; right:0;
+  padding-top: 70px;
+  font-family:courier, monospace;
+  text-align:center;
+  color:#fff;
+  font-size:100px;
+}
+
+.alarm {
+	padding-left: 50px;
+	top: 0; left:0; bottom:0; right:0;
+
+}
+ 
+p {
+	padding-left: 100px;
+	color: #fff;
+	font-family: courier, monospace;
+}

@@ -1,0 +1,84 @@
+.jumbotron {
+  background-image: url(../header2.JPG);
+  color: #fff;
+  background-position: 0% 30%;
+  background-size: 1300px;
+  background-repeat: no-repeat;
+  width: 100%;
+ }
+ 
+.carousel{
+  height: 400px;
+  margin-bottom: 60px;
+  width: 100%;
+}
+
+a {
+ color: #fff;
+  text-decoration: none;
+}
+
+a:hover{
+ text-decoration:none; 
+  color:#e1b350;
+}
+
+
+
+.projects {
+ margin-top: -39px;
+ background-color: #abaf9b; 
+ color: #fff;
+ padding-bottom: 20px;
+  padding-top: 20px;
+}
+
+#mywork {
+ position: relative;
+  text-align:center;
+  color: #fff;
+  background-color: #e1b350;
+  height: 40px;
+  width: 20%;
+  margin-bottom: 20px;
+  margin-left:auto;
+  margin-right:auto;
+  
+ 
+}
+
+.learning {
+ text-align: center;
+ padding-bottom: 20px;
+}
+
+.learning h2{
+ color: #abaf9b;  
+}
+
+.footer {
+ text-align:center;
+ padding-top: 15px;
+  font-style:italic;
+}
+
+.row {
+ padding-bottom: 10px; 
+}
+
+hr {
+   
+   position: center;
+  padding-top: 15px;
+   padding-bottom: 15px;
+   margin: 8px auto;
+   height: 0;
+   width: 40%;
+   max-height: 0;
+   font-size: 1px;
+   line-height: 0;
+   clear: both;
+   border: none;
+   border-top: 1px solid #aaaaaa;
+   border-bottom: 1px solid #ffffff;
+}
